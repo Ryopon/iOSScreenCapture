@@ -2,9 +2,10 @@
 Unity+iOSでカメラ/写真へのアクセスと撮影+カメラロールへの保存機能をまとめたライブラリです。
 
 ## 導入方法
-iOSCameraAuthorization.unitypackageをインポートして下さい。
+iOSScreenCapture.unitypackageをインポートして下さい。
 
 後はQiitaの記事を見てよしなに。
+https://qiita.com/Ryopon/items/a2cf618eb570637deffb
 
 ## サンプル
 UnityiOS.RequestPermissionsでアクセス許可をリクエストしてUnityiOSScreenCapture.Executeで撮影する流れです。
