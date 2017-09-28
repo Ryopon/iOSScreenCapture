@@ -1,4 +1,4 @@
-# iOSCameraAuthorization
+# iOSScreenCapture
 Unity+iOSでカメラ/写真へのアクセスと撮影+カメラロールへの保存機能をまとめたライブラリです。
 
 ## 導入方法
