@@ -32,9 +32,9 @@ public class Sample : MonoBehaviour {
 }
 ```
 
-## 配布ライセンス
-MIT License
-
 ## 参考にさせて頂いたサイト
 Unity + iOSでApplication.CaptureScreenshotを使わずにスクリーンキャプチャーをカメラロールに保存する
 http://marunouchi-tech.i-studio.co.jp/2155/
+
+## License
+MIT
